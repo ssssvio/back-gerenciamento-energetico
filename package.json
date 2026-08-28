@@ -1,0 +1,19 @@
+{
+  "name": "gerenciamento-energetico-backend",
+  "version": "1.0.0",
+  "description": "API Node.js/Express para gerenciamento de consumo energetico de uma escola, com dados em memoria persistidos em um arquivo JSON (sem banco de dados).",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
