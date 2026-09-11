@@ -78,7 +78,7 @@ Setores disponíveis: `salas-aula`, `lab-informatica`, `biblioteca`, `cozinha`,
 ### Configuração
 ```json
 {
-  "estabelecimento": { "nome": "Escola Municipal Modelo", "municipio": "Papagaios-MG" },
+  "estabelecimento": { "nome": "Escola Municipal", "municipio": "Papagaios-MG" },
   "dataImplementacaoSolar": "2025-01"
 }
 ```
